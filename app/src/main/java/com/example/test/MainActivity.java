@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // 这里填你需要打包的 H5 页面链接
-        webView.loadUrl("https://scoin1125.net/");
+        webView.loadUrl("https://www.exnessus.com");
 
         //显示一些小图片（头像）
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
